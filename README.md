@@ -83,10 +83,63 @@
 
   # Reconhecimento ao Invés de Memorização
 
+  - As informações sejam exibidas de forma fácil.
+  - Reconhecer padrões e simbolos ao invés de memorizar.
+  - Reduzir a carga cognitiva do usuário, isso inclui também sua capacidade de memorização.
+ - Deixar sempre visível pequenos lembretes das informações que podem ser úteis.
+
+ ### Exemplos
+
+  - Reduzir Menus e Criar Categorias para menus com muitas opções.
+  - Dicas visuais para lembrar principais ações.
+
   # Flexibilidade e Eficiência de Uso
+
+  - Quanto mais o usuário utiliza o sistema o mesmo deve se adaptar a suas preferências.
+  - Prover ferramentas para leigos e usuários avaçados.
+  - A interface deve atender usários experientes e inexperientes.
+  - Dar diversas opções para o usuário realizar a mesma ação de acordo com sua experiência / contexto.
+
+   ### Exemplos
+
+  - Teclas de atalho.
+  - Sugestões de preenchimento.
+  - Histórico de preenchimento.
+  - Adpatação da interface para prefêrencias do usuário.
+  - Modal (fechar pelo X, clicar fora ou apertar esc).
 
   # Estética e Desing Minimalista
 
+  - Exibir o conteúdo mais relevante inicialmente e deixar que usuário se aprofunde quando ele tiver mais interesse.
+  - O interface deve apenas priorizar informações mais relevantes.
+  - Evitar elementos visuais desnecessários que possam confundir o usuário.
+
+ ### Exemplos
+
+ - Diminuir a exibição de cards na tela.
+ - Reduzir e criar subcategorias de menus extensos.
+ - Evitar o uso de diversas famílias fontes.
+ - Evitar uso de diversas cores e formas, quando não estabelido um padrão.
+ - Deixar boas margin e padding entre os elementos.
+
   # Auxiliar o Usuário a Reconhecer, Diagnosticar e se Recuperar de Erros
 
+  - Mostrar ao usuário qual foi o erro que ele comenteu de uma forma clara.
+  - Ajudar o usuário a encontrar solução para o erro.
+  - As mensagens de erro devem ser expressas em uma liguagem simples e sem códigos.
+
+### Exemplos
+
+  - Não mostrar códigos de erro ao usuários.
+  - Criar um sitema de log interno para debug ou captura de erros para desenvolvimento.
+  - Nas mensagens de erro procurar informar ao usuário o que ele deve fazer para não ter mais o erro.
+
   # Ajuda e Documentação
+
+    - Para sistemas complexos ou com muitas páginas e recursos, criar uma área do site para ajuda.
+    - Dar a possibilidade do usuário encontrar a solução para sua dúvida por si mesmo.
+
+### Exemplos
+
+  - FAQ (frequently asked question) - Perguntas Frequentes.
+  - Documentação.
