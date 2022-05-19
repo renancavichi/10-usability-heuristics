@@ -106,6 +106,8 @@
   - Sugestões de preenchimento.
   - Histórico de preenchimento.
   - Adpatação da interface para prefêrencias do usuário.
+    - Modo Noturno
+    - Resposividade
   - Modal (fechar pelo X, clicar fora ou apertar esc).
 
 # 8) Estética e Desing Minimalista
