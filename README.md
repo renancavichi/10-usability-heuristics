@@ -116,11 +116,11 @@
 
  ### Exemplos
 
- - Diminuir a exibição de cards na tela.
- - Reduzir e criar subcategorias de menus extensos.
- - Evitar o uso de diversas famílias fontes.
- - Evitar uso de diversas cores e formas, quando não estabelido um padrão.
- - Deixar boas margin e padding entre os elementos.
+  - Diminuir a exibição de cards na tela.
+  - Reduzir e criar subcategorias de menus extensos.
+  - Evitar o uso de diversas famílias fontes.
+  - Evitar uso de diversas cores e formas, quando não estabelido um padrão.
+  - Deixar boas margin e padding entre os elementos.
 
   # Auxiliar o Usuário a Reconhecer, Diagnosticar e se Recuperar de Erros
 
@@ -136,8 +136,8 @@
 
   # Ajuda e Documentação
 
-    - Para sistemas complexos ou com muitas páginas e recursos, criar uma área do site para ajuda.
-    - Dar a possibilidade do usuário encontrar a solução para sua dúvida por si mesmo.
+  - Para sistemas complexos ou com muitas páginas e recursos, criar uma área do site para ajuda.
+  - Dar a possibilidade do usuário encontrar a solução para sua dúvida por si mesmo.
 
 ### Exemplos
 
