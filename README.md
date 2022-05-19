@@ -1,4 +1,4 @@
-# Feedback | Visibilidade do Status do Sistema
+# 1) Feedback | Visibilidade do Status do Sistema
 
   - Informar ao usuário a situação do sistema.
     - Informação sobre a Navegação.
@@ -6,7 +6,7 @@
       - De onde ele veio.
   - Dar um retorno rápido para cada ação do usuário.
 
-### Exemplos:
+#### Exemplos:
   
   - Destacar o menu atual.
   - Utilizar Breadcrump.
@@ -16,7 +16,7 @@
   - Mostrar progresso em ações de download/upload.
   - Indicadores visuais para edições não salvas.
 
-# Correspondência Entre o Sistema e o Mundo Real
+# 2) Correspondência Entre o Sistema e o Mundo Real
 
   - O sistema deve falar a linguagem do usuário.
     - Gráficos.
@@ -24,14 +24,14 @@
   - Elementos de interfaces compreensíveis pelo usuário.
 
 
-### Exemplos:
+#### Exemplos:
 
   - Utilizar ícones/imagens que são reconhecidos pelo usuário.
   - Utilizar ícones/imagens que fazem referência a elementos do mundo real.
   - Idioma padrão do usuário.
   - Utilizar termos do contexto do usuário.
 
-# Liberdade e Controle do Usuário
+# 3) Liberdade e Controle do Usuário
 
   - Deixar os usuários tomar decisões em relação as suas ações permitidas.
   - Evitar impor decisões ao usuário ou tomar decisões por ele.
@@ -42,7 +42,7 @@
   - Confirmar ações críticas quando dados possam ser perdidos.
   - Menus de navegação principal sempre visivel ou no evento de scrollar para cima.
 
-### Exemplos:
+#### Exemplos:
 
   - Setinha de voltar.
   - Utilizar Breadcrump para permitir o retorno para uma categoria anterior.
@@ -53,13 +53,13 @@
   - Opções de fechar/desfazer/limpar.
   - Utilizar teclas como "esc" para desfazer/fechar/voltar.
 
-# Consistência e Padrões
+# 4) Consistência e Padrões
 
   - Utilizar um mesmo padrão para não confundir o usuário.
   - Utilizar posicionamentos, formas e cores padrões.
   - Padronizar links e botões.
 
-### Exemplos
+#### Exemplos
 
   - Logo se encontra no canto superior direito.
   - Cores, formatos e outros destaques de links e botões consistêntes.
@@ -67,13 +67,13 @@
   - Posicioamento de elementos convencionais.
   - Preservar funções de ícones e termos conhecidos.
 
-# Prevenção de Erros
+# 5) Prevenção de Erros
   
   - Previnir qualquer ação acidental do usuário.
   - Desabilitar opções fora do contexto.
   - Ajuda de contexto.
 
-### Exemplos
+#### Exemplos
 
   - O sistema deve desabilitar menus que não podem ser acessados em algum momento.
   - Formulários deve informar no contexto regras de preenchimento.
@@ -81,26 +81,26 @@
   - Compos dos formulários só devem aceitar caracteres pertinentes.
   - Confirmar operações críticas.
 
-  # Reconhecimento ao Invés de Memorização
+# 6) Reconhecimento ao Invés de Memorização
 
   - As informações sejam exibidas de forma fácil.
   - Reconhecer padrões e simbolos ao invés de memorizar.
   - Reduzir a carga cognitiva do usuário, isso inclui também sua capacidade de memorização.
- - Deixar sempre visível pequenos lembretes das informações que podem ser úteis.
+  - Deixar sempre visível pequenos lembretes das informações que podem ser úteis.
 
- ### Exemplos
+#### Exemplos
 
   - Reduzir Menus e Criar Categorias para menus com muitas opções.
   - Dicas visuais para lembrar principais ações.
 
-  # Flexibilidade e Eficiência de Uso
+# 7) Flexibilidade e Eficiência de Uso
 
   - Quanto mais o usuário utiliza o sistema o mesmo deve se adaptar a suas preferências.
   - Prover ferramentas para leigos e usuários avaçados.
   - A interface deve atender usários experientes e inexperientes.
   - Dar diversas opções para o usuário realizar a mesma ação de acordo com sua experiência / contexto.
 
-   ### Exemplos
+#### Exemplos
 
   - Teclas de atalho.
   - Sugestões de preenchimento.
@@ -108,13 +108,13 @@
   - Adpatação da interface para prefêrencias do usuário.
   - Modal (fechar pelo X, clicar fora ou apertar esc).
 
-  # Estética e Desing Minimalista
+# 8) Estética e Desing Minimalista
 
   - Exibir o conteúdo mais relevante inicialmente e deixar que usuário se aprofunde quando ele tiver mais interesse.
   - O interface deve apenas priorizar informações mais relevantes.
   - Evitar elementos visuais desnecessários que possam confundir o usuário.
 
- ### Exemplos
+#### Exemplos
 
   - Diminuir a exibição de cards na tela.
   - Reduzir e criar subcategorias de menus extensos.
@@ -122,24 +122,24 @@
   - Evitar uso de diversas cores e formas, quando não estabelido um padrão.
   - Deixar boas margin e padding entre os elementos.
 
-  # Auxiliar o Usuário a Reconhecer, Diagnosticar e se Recuperar de Erros
+# 9) Auxiliar o Usuário a Reconhecer, Diagnosticar e se Recuperar de Erros
 
   - Mostrar ao usuário qual foi o erro que ele comenteu de uma forma clara.
   - Ajudar o usuário a encontrar solução para o erro.
   - As mensagens de erro devem ser expressas em uma liguagem simples e sem códigos.
 
-### Exemplos
+#### Exemplos
 
   - Não mostrar códigos de erro ao usuários.
   - Criar um sitema de log interno para debug ou captura de erros para desenvolvimento.
   - Nas mensagens de erro procurar informar ao usuário o que ele deve fazer para não ter mais o erro.
 
-  # Ajuda e Documentação
+# 10) Ajuda e Documentação
 
   - Para sistemas complexos ou com muitas páginas e recursos, criar uma área do site para ajuda.
   - Dar a possibilidade do usuário encontrar a solução para sua dúvida por si mesmo.
 
-### Exemplos
+#### Exemplos
 
   - FAQ (frequently asked question) - Perguntas Frequentes.
   - Documentação.
