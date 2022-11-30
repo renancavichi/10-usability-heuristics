@@ -31,6 +31,7 @@ Definição e exemplos das 10 heurísticas de usabilidade de Nilsen aplicadas a 
   - Colocar loading em processos demorados.
   - Mostrar progresso em ações de download/upload.
   - Indicadores visuais para edições não salvas.
+  - Titulo da página (aba) informativo sobre a navegação atual.
 
 ## 2) Correspondência Entre o Sistema e o Mundo Real
 
@@ -96,6 +97,9 @@ Definição e exemplos das 10 heurísticas de usabilidade de Nilsen aplicadas a 
   - Informar campos obrigatórios.
   - Compos dos formulários só devem aceitar caracteres pertinentes.
   - Confirmar operações críticas.
+  - Área de clique de ícones e links em um tamanho suficiente.
+  - Corretores ortográficos.
+  - Sugestões de busca ou preenchimento de campos.
 
 ## 6) Reconhecimento ao Invés de Memorização
 
