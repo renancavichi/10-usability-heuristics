@@ -20,6 +20,7 @@ Definição e exemplos das 10 heurísticas de usabilidade de Nilsen aplicadas a 
       - Em que página o usuário está.
       - De onde ele veio.
   - Dar um retorno rápido para cada ação do usuário.
+  - Esse aspecto influencia na confiança do usuário em relação ao sistema.
 
 #### Exemplos:
   
